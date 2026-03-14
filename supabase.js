@@ -4,8 +4,7 @@
 
 // BURAYI KENDİ BİLGİLERİNLE DOLDUR
 const SUPABASE_URL = 'https://pqdwxvwdoifyfqqxudiv.supabase.co';
-const SUPABASE_URL = 'https://pqdwxvwdoifyfqqxudiv.supabase.co';
-const SUPABASE_ANON_KEY = 'sb_publishable_XXXXXXXXXXXXXXX';
+const SUPABASE_ANON_KEY = 'sb_publishable_IbFDXG5r_jnXKKmeQC2Ghg_i74RqAs7';
 
 // Supabase bağlantısı
 const { createClient } = supabase;
